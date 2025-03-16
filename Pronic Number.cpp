@@ -1,3 +1,4 @@
+
 // Pronic Number
 
 #include<iostream>
