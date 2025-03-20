@@ -8,4 +8,6 @@ int main(){
     cout << "Enter the value of radius" << endl;
     cin >> n ;
     cout<< 3.14 * n * n;
+
+
 }
